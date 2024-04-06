@@ -1,2 +1,2 @@
 # MY-portfolio
-My personal portfolio, handcrafted using HTML5 amd CSS3. <br>It contains some experiments and works, which I dunno should have had a repo of its own.
+Welcome to my front-end development portfolio! I'm dedicated to crafting engaging and intuitive user experiences through innovative front-end solutions.<br>With a passion for clean code and attention to detail, <br>I aim to create web applications that not only look stunning but also deliver seamless functionality.
